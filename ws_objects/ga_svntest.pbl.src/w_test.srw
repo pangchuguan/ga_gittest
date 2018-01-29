@@ -46,6 +46,6 @@ string facename = "Tahoma"
 string text = "test"
 end type
 
-event clicked;MessageBox ( "Tip", "This is a Test!" )
+event clicked;MessageBox ( "Tip", "This is a Test111!" )
 end event
 
