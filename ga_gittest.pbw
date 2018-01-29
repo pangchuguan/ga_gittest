@@ -1,0 +1,9 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "ga_svntest.pbt";
+ 1 "genapp.pbt";
+ 2 "webservice.pbt";
+ 3 "assembly.pbt";
+@end;
+DefaultTarget "ga_svntest.pbt";
+DefaultRemoteTarget "ga_svntest.pbt";

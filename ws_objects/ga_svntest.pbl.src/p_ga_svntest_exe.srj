@@ -1,0 +1,16 @@
+﻿$PBExportHeader$p_ga_svntest_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:ga_svntest.exe,,0,0,1
+CMP:0,0,0,2,0,0,1
+COM:Appeon
+DES:Appeon Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:0,asInvoker,0
+PBD:ga_svntest.pbl,,0
+OBJ:d:\pb171\svn\ga_svntest\ga_svntest.pbl,w_test,w
+OBJ:D:\PB171\SVN\ga_svntest\ga_svntest.pbl,ga_svntest,a

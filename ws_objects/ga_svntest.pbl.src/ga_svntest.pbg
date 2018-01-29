@@ -1,0 +1,9 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "ga_svntest.pbl" "";
+@end;
+@begin Objects 
+ "ga_svntest.sra" "ga_svntest.pbl";
+ "p_ga_svntest_exe.srj" "ga_svntest.pbl";
+ "w_test.srw" "ga_svntest.pbl";
+@end;
