@@ -52,7 +52,7 @@ string facename = "Tahoma"
 string text = "none"
 end type
 
-event clicked;MessageBox ( "", "test222" )
+event clicked;MessageBox ( "", "test2221" )
 end event
 
 type cb_1 from commandbutton within w_test
